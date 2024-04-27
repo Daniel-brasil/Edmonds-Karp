@@ -12,4 +12,4 @@ edmonds-karp.exe < simple.gr
 
 The program returns the maximum flow value on standard output (stdou).
 
-An instance generator can be found at https://github.com/mrpritt/Fluxo_Maximo
+An instance generator can be found at https://github.com/mrpritt/Fluxo_Maximo or you can use testes folder.
